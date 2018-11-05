@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CompressedImageSubscriber</string>
+    <string name="error_message">An error occurred when subscribing. Make sure the URL and topic are correct.</string>
+    <string name="subscribe_button_text">Subscribe</string>
+    <string name="topic_text_name">ROS Topic Name</string>
+    <string name="topic_text_example">e.g. /webcam/image_raw/compressed</string>
+    <string name="url_text_name">ROS Server URL</string>
+    <string name="url_text_example">e.g. http://172.16.32.218:11311/</string>
+</resources>
